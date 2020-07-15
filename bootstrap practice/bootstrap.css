@@ -1,0 +1,31 @@
+body{
+	background-image: url(https://www.smartertravel.com/uploads/2020/03/ST_ZoomBackground_Beach03.jpg);
+	background-size: cover;
+}
+
+.background{
+	background-color: rgba(0,0,0,0.6);
+}
+
+.row{
+	margin-bottom: 200px;
+}
+
+.card-body{
+	background-color: rgb(233, 236, 239);
+}
+
+footer{
+	background-color:rgb(233, 236, 239);
+	padding: 40px 0px;
+	color: #000;
+}
+
+footer a{
+	color:#000;
+	margin-left: 40px;
+}
+
+footer button{
+	margin-right: 30px;
+}
